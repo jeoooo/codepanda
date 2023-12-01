@@ -1,0 +1,21 @@
+{
+  "name": "codepanda",
+  "displayName": "codepanda",
+  "description": "Codepanda, order the code you love!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "codepanda",
+        "uiTheme": "vs",
+        "path": "./themes/codepanda-color-theme.json"
+      }
+    ]
+  }
+}
