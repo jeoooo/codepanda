@@ -1,6 +1,9 @@
 # CodePanda 🐼📦
 
-<!-- TODO: insert image -->
+
+![codepanda readme splash](https://github.com/jeoooo/codepanda/assets/53299170/27fdfb7f-f99b-40d9-a865-4f078c95bb10)
+
+
 
 
 ## Order the Code you love! 🚀🎨
