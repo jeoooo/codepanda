@@ -1,6 +1,7 @@
 # CodePanda 🐼📦
 
 <!-- TODO: insert image -->
+[![codepanda readme splash](https://github.com/jeoooo/codepanda/assets/53299170/7b2f92e9-20e9-45df-ae91-255e78369758)](https://github-production-user-asset-6210df.s3.amazonaws.com/53299170/293348992-7b2f92e9-20e9-45df-ae91-255e78369758.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20231229%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231229T104757Z&X-Amz-Expires=300&X-Amz-Signature=97f839d423632a977e402f8b8935b98ef5c0a69aa1a75861c3e49ea530ca9ced&X-Amz-SignedHeaders=host&actor_id=53299170&key_id=0&repo_id=726062840)
 
 
 ## Order the Code you love! 🚀🎨
