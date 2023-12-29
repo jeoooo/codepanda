@@ -1,8 +1,10 @@
 {
   "name": "codepanda",
-  "displayName": "codepanda",
-  "description": "Codepanda, order the code you love!",
+  "displayName": "Codepanda",
+  "description": "Codepanda: Order the code you love!",
+  "publisher": "jeooo",
   "version": "0.0.1",
+  "icon": "images/codepanda-theme-icon.png",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -17,5 +19,9 @@
         "path": "./themes/codepanda-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeoooo/codepanda.git"
   }
 }
