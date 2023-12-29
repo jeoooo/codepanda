@@ -1,7 +1,8 @@
 # CodePanda 🐼📦
 
-<!-- TODO: insert image -->
-[![codepanda readme splash](https://github.com/jeoooo/codepanda/assets/53299170/a2554e45-be85-4291-8b68-6e1928d3dc73)](https://github-production-user-asset-6210df.s3.amazonaws.com/53299170/293349178-a2554e45-be85-4291-8b68-6e1928d3dc73.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20231229%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231229T104912Z&X-Amz-Expires=300&X-Amz-Signature=fa245fa09ac0119d1ebb846e360b2cf314aef4c9b544116ff39aa71eeed1a398&X-Amz-SignedHeaders=host&actor_id=53299170&key_id=0&repo_id=726062840)
+
+![codepanda readme splash](https://github.com/jeoooo/codepanda/assets/53299170/27fdfb7f-f99b-40d9-a865-4f078c95bb10)
+
 
 
 
